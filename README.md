@@ -20,6 +20,7 @@ npm install grunt-lesslint
   * Run `npm install`
   * Run `grunt` to compile the CoffeeScript code
   * Run `grunt test` to run the specs
+  * Release: `grunt clean lint coffee` to create the Javascript source
 
 ## Configuring
 
